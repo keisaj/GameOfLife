@@ -179,11 +179,11 @@ class LifeGame:
         for c in range(self.num_cols):
             for r in range(self.num_rows):
                 if self.grids[self.active_grid][c][r] == 1:
-                    color = self.alive_color
-                    # R = random.randint(1, 255)
-                    # G = random.randint(1, 255)
-                    # B = random.randint(1, 255)
-                    # color = (R, G, B)
+                    # color = self.alive_color
+                    R = random.randint(1, 255)
+                    G = random.randint(1, 255)
+                    B = random.randint(1, 255)
+                    color = (R, G, B)
                 else:
                     color = self.dead_color
                 # pygame.draw.circle(self.screen,
