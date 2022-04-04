@@ -1,6 +1,6 @@
 # Game of Life 
 > Interactive Game of Life simulation
-> For more info about Game of Life rules visit [_here_](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). the link here. -->
+> For more info about Game of Life rules visit [_here_](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 ## Table of Contents
 * [General Info](#general-information)
